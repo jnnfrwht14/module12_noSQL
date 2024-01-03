@@ -1,2 +1,5 @@
+Module 12 resources
+
 https://www.mongodb.com/docs/manual/reference/operator/aggregation/toDecimal/
 https://www.mongodb.com/docs/manual/reference/operator/aggregation/toDouble/
+https://www.mongodb.com/developer/languages/python/python-quickstart-crud/#update-documents-in-a-collection
